@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { HashRouter, Link } from "react-router-dom";
-import routes from "./routes";
+import routes from "./routes/routes";
 
 export default class App extends Component {
   render() {
